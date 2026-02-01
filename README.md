@@ -1,9 +1,5 @@
-# Enigma Chess Engine  [![wakatime](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48/project/7239718c-4401-49ae-bf30-3c767e433e10.svg)](https://wakatime.com/badge/user/86f08dc1-5098-42c2-b193-5a05699baa48/project/7239718c-4401-49ae-bf30-3c767e433e10)
+# Enigma Chess Engine 
 ***Developed by Jack Milner***
-\
-\
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/jackmilner)
-
 ## Currently supported platforms
 - [x] Windows
 - [x] Mac
